@@ -2,12 +2,11 @@ package ca.ubc.cpsc310.gitlab.client;
 
 
 import java.util.ArrayList;
-//import java.util.List;
 
 import ca.ubc.cpsc310.gitlab.client.products.ProductItem;
-//import ca.ubc.cpsc310.gitlab.client.user.IUser;
+
 import ca.ubc.cpsc310.gitlab.client.user.User;
-//=======
+
 import java.util.List;
 
 import ca.ubc.cpsc310.gitlab.client.service.LoadUsersService;
